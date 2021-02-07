@@ -38,6 +38,7 @@ nav a {
     color: #497444;
 }
 .container {
+    margin: 2px;
     display: flex;
 }
 .paragrafo {
@@ -49,4 +50,12 @@ nav a {
 }
 .notebook, .codigos {
     margin: 10px;
+}
+.caixinhas {
+    margin-right: 20px;
+}
+.redesocial {
+    width: 260px;
+    margin: 2px 0 2px 0;
+    display: flex;
 }
