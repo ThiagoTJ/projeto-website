@@ -1,0 +1,36 @@
+body {
+    background-image: url(../imagens/workspace.png);
+    background-color: #150215de;
+    background-blend-mode: darken;
+    font-family: Times New Roman;
+    font-size: 16pt;
+    color: #70ce78;
+    margin: 0;
+    padding: 2px;
+}
+.menu {
+    position: relative;
+    height: 50px;
+    display: flex;
+    justify-content: initial;
+    align-items: inherit;
+}
+.menu .box {
+    width: 25%;
+    height: 100%;
+    display: flex;
+    margin: 2px;
+}
+.centralizar {
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    text-align: center;
+}
+p, ul li, ul li a {
+    color: #e2d990e9;
+}
+nav a {
+    color: #497444;
+}
